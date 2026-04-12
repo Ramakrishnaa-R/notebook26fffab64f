@@ -1,5 +1,5 @@
-streamlit==1.56.0
-torch==2.11.0
-librosa==0.10.0
-transformers==4.41.0
-numpy==2.2.0
+streamlit>=1.28.0
+torch>=2.0.0,<2.2
+librosa>=0.10.0
+transformers>=4.35.0,<4.40
+soundfile>=0.12.0

@@ -6,9 +6,9 @@ setup(
     python_requires=">=3.9",
     install_requires=[
         "streamlit==1.40.0",
-        "torch==2.5.1",
+        "torch==2.6.0",
         "librosa==0.10.2",
-        "transformers==4.46.3",
+        "transformers==4.48.0",
         "soundfile==0.12.1",
         "huggingface-hub==0.26.5",
         "numpy==1.26.4",
